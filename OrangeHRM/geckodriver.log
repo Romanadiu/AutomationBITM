@@ -1,0 +1,79 @@
+1659778315980	geckodriver	INFO	Listening on 127.0.0.1:12167
+1659778319098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileeD9K5y"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1659778319515	Marionette	INFO	Marionette enabled
+1659778319521	Marionette	INFO	Listening on port 12177
+WebDriver BiDi listening on ws://localhost:12168
+Read port: 12177
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1659778319718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileeD9K5y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12168/devtools/browser/c548520f-e9f4-429f-a104-7e39352aded4
+1659778339171	Marionette	INFO	Stopped listening on port 12177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659778492484	geckodriver	INFO	Listening on 127.0.0.1:12234
+1659778495578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileEONlBx"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1659778496006	Marionette	INFO	Marionette enabled
+1659778496013	Marionette	INFO	Listening on port 12244
+Read port: 12244
+WebDriver BiDi listening on ws://localhost:12235
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1659778496234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileEONlBx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12235/devtools/browser/5d77c1b1-8aff-440a-b1d9-7496a07dde65
+1659778509968	Marionette	INFO	Stopped listening on port 12244
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659778659360	geckodriver	INFO	Listening on 127.0.0.1:12359
+1659778662440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilecl10cH"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1659778662847	Marionette	INFO	Marionette enabled
+1659778662853	Marionette	INFO	Listening on port 12369
+WebDriver BiDi listening on ws://localhost:12360
+Read port: 12369
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1659778663050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilecl10cH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12360/devtools/browser/b97abbcb-af55-40c6-b79f-65dddea08665
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1659780178961	Marionette	INFO	Stopped listening on port 12369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilev7A7QT"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1659778833599	Marionette	INFO	Marionette enabled
+1659778833607	Marionette	INFO	Listening on port 12464
+WebDriver BiDi listening on ws://localhost:12452
+Read port: 12464
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1659778833840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilev7A7QT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12452/devtools/browser/c4749612-4f5e-43ec-9a5e-bf01aea9c8be
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659778846947	Marionette	INFO	Stopped listening on port 12464
+1659778875852	geckodriver	INFO	Listening on 127.0.0.1:12519
+1659778878945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12520" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileu4Egav"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1659778879358	Marionette	INFO	Marionette enabled
+1659778879364	Marionette	INFO	Listening on port 12535
+WebDriver BiDi listening on ws://localhost:12520
+Read port: 12535
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1659778879557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileu4Egav\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12520/devtools/browser/75d387db-7279-4f36-8a43-7b5246068b79
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659778897074	Marionette	INFO	Stopped listening on port 12535

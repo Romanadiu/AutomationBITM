@@ -1,0 +1,29 @@
+1658844909890	geckodriver	INFO	Listening on 127.0.0.1:11001
+1658844912978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileNhCXCp"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658844914049	Marionette	INFO	Marionette enabled
+1658844914059	Marionette	INFO	Listening on port 11015
+WebDriver BiDi listening on ws://localhost:11002
+Read port: 11015
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658844914331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileNhCXCp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11002/devtools/browser/cc2d1abb-2e56-41e6-8bf3-38a7785e3f35
+1658845008883	Marionette	INFO	Stopped listening on port 11015
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658846346562	geckodriver	INFO	Listening on 127.0.0.1:11420
+1658846349648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile4mLI7u"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658846350044	Marionette	INFO	Marionette enabled
+1658846350049	Marionette	INFO	Listening on port 11430
+WebDriver BiDi listening on ws://localhost:11421
+Read port: 11430
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658846350256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile4mLI7u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11421/devtools/browser/301f982a-85e4-4dc2-b74f-ac91618df9ff
+1658846358906	Marionette	INFO	Stopped listening on port 11430
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined

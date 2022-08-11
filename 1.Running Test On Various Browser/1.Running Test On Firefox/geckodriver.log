@@ -1,0 +1,43 @@
+1658806932845	geckodriver	INFO	Listening on 127.0.0.1:14952
+1658807126533	geckodriver	INFO	Listening on 127.0.0.1:1087
+1658807129612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilemOV5qI"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658807130088	Marionette	INFO	Marionette enabled
+1658807130094	Marionette	INFO	Listening on port 1097
+WebDriver BiDi listening on ws://localhost:1088
+Read port: 1097
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658807130332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilemOV5qI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1088/devtools/browser/3b344557-59e8-4d10-ad28-86710cc6bc1b
+1658807869681	Marionette	INFO	Stopped listening on port 1097
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658815347725	geckodriver	INFO	Listening on 127.0.0.1:5359
+1658815350816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilegmRhID"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658815351261	Marionette	INFO	Marionette enabled
+1658815351267	Marionette	INFO	Listening on port 5369
+WebDriver BiDi listening on ws://localhost:5360
+Read port: 5369
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658815351476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilegmRhID\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5360/devtools/browser/c70138d4-9dbf-49cb-b0d6-72b709290779
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1658819012081	Marionette	INFO	Stopped listening on port 5369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilesQe4he"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658815452210	Marionette	INFO	Marionette enabled
+1658815452216	Marionette	INFO	Listening on port 5441
+WebDriver BiDi listening on ws://localhost:5432
+Read port: 5441
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658815452418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilesQe4he\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5432/devtools/browser/c726c75d-8296-4d91-a3f3-a5c75f860e9d
+1658815456871	Marionette	INFO	Stopped listening on port 5441
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
